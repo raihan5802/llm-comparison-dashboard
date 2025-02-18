@@ -1,6 +1,6 @@
 # LLM Comparison Dashboard
 
-![LLM Comparison Dashboard](https://github.com/raihan5802/llm-comparison-dashboard/public/screenshots/dashboard.png)
+![LLM Comparison Dashboard](https://github.com/raihan5802/llm-comparison-dashboard/blob/main/public/screenshots/dashboard.png)
 
 A powerful, interactive dashboard that allows you to compare responses from multiple Large Language Models (LLMs) side by side. This project was built to demonstrate the different capabilities, response styles, and performance metrics of leading AI language models.
 
